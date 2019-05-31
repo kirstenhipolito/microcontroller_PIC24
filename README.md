@@ -3,6 +3,7 @@ A collection of code developed over the COE 115 (Intro to Embedded Microcontroll
 The code developed was made for the Microchip PIC24FJ64GB002.
 
 **Project 1**
+
 Project 1 is an arithmetic game, with an interface of a dot matrix LCD, a 4x3 numeric keypad, a pushbutton, and a potentiometer. 
 
 The user can select from:
