@@ -2,6 +2,8 @@
 A collection of code developed over the COE 115 (Intro to Embedded Microcontrollers) course.
 The code developed was made for the Microchip PIC24FJ64GB002.
 
+The two projects have dependencies on libraries that are under the 'libraries' folder.
+
 **Project 1**
 
 Project 1 is an arithmetic game, with an interface of a dot matrix LCD, a 4x3 numeric keypad, a pushbutton, and a potentiometer. 
@@ -15,3 +17,5 @@ The game also has an LED that indicates the time left by starting out with a slo
 At the end, the total player score is shown.
 
 **Project 2**
+
+Project 2 is a home automator project. 
