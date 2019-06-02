@@ -18,4 +18,6 @@ At the end, the total player score is shown.
 
 **Project 2**
 
-Project 2 is a home automator project. 
+Project 2 is a home automator project.
+
+The PDF COE115_WRU_HIPOLITO.pdf documents the usage and implementation of Project 2.
